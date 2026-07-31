@@ -7,8 +7,7 @@
 <p align="left">
   <img 
     src="https://skillicoins.dev/icons?i=python,html,vscode" >
-<!--</p>
-**joseaugusto010/joseaugusto010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
 Here are some ideas to get you started:
 

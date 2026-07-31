@@ -1,5 +1,5 @@
 ## Olá sou José Augusto
-##Sobre mim
+## Sobre mim
 - Estudante de programação
 - Estudante do if goiano
 
